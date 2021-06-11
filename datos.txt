@@ -1,0 +1,6 @@
+﻿Pedro,Perez,pedroperez@gmail.com,El Corozo,Masculino,Juegos;Playa,Londres;Nueva York;Barcelona,PedPer58,2801ab5a
+Gladys,Carrero,gcarreros@gmail.com,Barrio Obrero,Femenino,Playa;Cine,Milán;Nueva York;Barcelona,GlaCar437,43f9805a
+Paola,Quagliano,paola@gmail.com,Santa Ana,Masculino,Juegos,Nueva York,PaoQua489,3f9805a9
+Vincenzo,Quagliano,profesor.vincenzo@gmail.com,El Corozo,Masculino,Leer;Playa;Cine,Londres;Milán,VinQua981,092d993a
+Ariadna,Carrero,larn@gmail.com,Troncal 5,Femenino,Juegos,Londres;Nueva York;Barcelona,AriCar934,3af7092d
+Nubia,Carrero,nubiaemperatriz@gmail.com,Carretera vía el llano,Femenino,Playa,Nueva York,NubCar439,43f9805a
